@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Topic4_Task12A</string>
+    <string name="valor_inicial_cuenta">0</string>
 </resources>
